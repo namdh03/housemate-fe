@@ -22,13 +22,13 @@ The software system provides service packages for student apartments. Each apart
 Clone the repository:
 
 ```bash
-git clone https://github.com/hdang09/HouseMate-Frontend
+git clone https://github.com/namdh03/housemate-fe
 ```
 
 Change direction to the folder:
 
 ```bash
-cd HouseMate-Frontend
+cd housemate-fe
 ```
 
 Install the dependencies:
