@@ -8,6 +8,6 @@ RUN yarn build
 
 ## run stage ##
 FROM nginx:alpine
-RUN mkdir /run
+RUN mkdir -p /run
 COPY --from=build /app/build /run
 COPY nginx.conf /etc/nginx/nginx.conf
