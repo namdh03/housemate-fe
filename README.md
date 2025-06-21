@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="./public/assets/favicon/android-chrome-512x512.png" alt="HouseMate" width="100" height="100" />
-    <p><a href="https://housemate.site">HouseMate</a> is a web application that provides service for student apartments.</p>
+    <p><a href="https://housemate.namdh03.site">HouseMate</a> is a web application that provides service for student apartments.</p>
 </div>
 
 ## 0. Introduction
